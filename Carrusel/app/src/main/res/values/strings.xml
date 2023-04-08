@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Carrusel</string>
+    <string name="carrusel">CARRUSEL</string>
+    <string name="todo">TODO</string>
+    <string name="m">TODO</string>
+    <string name="qq">TODO</string>
+    <string name="as">TODO</string>
+    <string name="erar">TODO</string>
+
+    <string-array name="imagesOpciones">
+        <item>Arco del triunfo</item>
+        <item>Coliseo</item>
+        <item>Cristo del Corcovado</item>
+        <item>Torre Eiffel</item>
+        <item>Estatua de la libertad</item>
+        <item>Sagrada Familia</item>
+        <item>La Sirenita</item>
+    </string-array>
+
+</resources>
