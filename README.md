@@ -17,20 +17,16 @@
   <img src="https://github.com/Lxvine/CAROUSEL/blob/master/Screenshots/carousel2.png" style=" width:300px">
 </p>
 
-<p> </p>
+<p> The user can change movement direction of the images clicking on the two buttons below. </p>
 
 <p align="center">
   <img src="https://github.com/Lxvine/CAROUSEL/blob/master/Screenshots/carousel3.png" style=" width:300px">
 </p>
 
-<p> </p>
+<p>The user can change the image clicking on it.</p>
 
 <p align="center">
   <img src="https://github.com/Lxvine/CAROUSEL/blob/master/Screenshots/carousel4.png" style=" width:300px">
 </p>
 
-<p> </p>
 
-<p align="center">
-  <img src="https://github.com/Lxvine/CAROUSEL/blob/master/Screenshots/carousel5.png" style=" width:300px">
-</p>
