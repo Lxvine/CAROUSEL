@@ -33,4 +33,5 @@
   <img src="https://github.com/Lxvine/CAROUSEL/blob/master/Screenshots/carousel4.png" style=" width:300px">
 </p>
 
+---
 
